@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Task 5 React Hooks
+Tugas 5 - Aplikasi Pokedex menggunakan React Hooks
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
